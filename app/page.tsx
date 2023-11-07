@@ -33,6 +33,7 @@ export default function Page() {
          <Image src={'/hero-mobile.png'} alt={'wasd'} width={700} height={700} className='block md:hidden'></Image>
         </div>
       </div>
+      
     </main>
   );
 }
